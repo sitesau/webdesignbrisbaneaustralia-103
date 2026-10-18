@@ -1,0 +1,22 @@
+{
+  "wheel_id": 397,
+  "structure": "umbrella",
+  "slug": "webdesignbrisbaneaustralia-103",
+  "project": "web-design-brisbane-quotes-explained-279980cf62160f5b2ce1bc8662",
+  "parent_t1_ref": "webdesignbrisbaneaustralia-151",
+  "node_role": "feeder",
+  "money_target": "webdesignbrisbaneaustralia.com.au",
+  "primary_kw": "web design brisbane quotes explained",
+  "intended_url": "http://web-design-brisbane-quotes-explained-279980cf62160f5b2ce1bc8662.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "13512dc8d0cbda1d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/webdesignbrisbaneaustralia-151/",
+      "anchor": "Web Design Brisbane Before You Start: Before You Start",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
